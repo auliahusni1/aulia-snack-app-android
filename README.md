@@ -40,4 +40,10 @@ Kelas : 2 RKS C
 Proyek: Tugas Aplikasi Pemesanan Snack Fullstack
 Mata Kuliah: Keamanan Perangkat Lunak
 
+### Tampilan Aplikasi
+
+| Tampilan WebView di Genymotion | Hasil Pemesanan Tersimpan |
+|-------------------------------|----------------------------|
+| ![Genymotion](relative/path/ke/screenshot1.png) | ![Hasil](relative/path/ke/screenshot2.png) |
+
 
