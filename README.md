@@ -26,11 +26,18 @@ Aplikasi pemesanan makanan ringan berbasis web dan Android. Frontend ditampilkan
 
 ---
 
-## 🚀 Cara Menjalankan
+# Teknologi
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js + Express
+- Database: SQLite
+- Android: Kotlin + WebView + Jetpack Compose (optional)
+- Emulator: Genymotion
 
-### 1. Menjalankan Backend (Node.js)
+# Developer
+Nama: Aulia Rahma Husni
+NPM : 2322101887
+Kelas : 2 RKS C
+Proyek: Tugas Aplikasi Pemesanan Snack Fullstack
+Mata Kuliah: Keamanan Perangkat Lunak
 
-```bash
-cd backend
-npm install
-node server.js
+
